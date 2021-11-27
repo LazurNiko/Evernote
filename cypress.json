@@ -1,3 +1,7 @@
 {
-  "baseUrl": "https://www.evernote.com"
+  "baseUrl": "https://www.evernote.com",
+
+  "waitForAnimations": true,
+  "animationDistanceThreshold": 50
+
 }
